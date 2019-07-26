@@ -1,0 +1,2 @@
+lokasi /usr/attack pada Kali Linux Red Team
+==> 127 KB (130,633 bytes)
