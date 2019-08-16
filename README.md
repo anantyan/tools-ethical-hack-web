@@ -1,2 +1,2 @@
 # tools-ethical-hack-web
-Tools ini berisikan hack web untuk mengetes keamanan web apakah website tersebut layak apa tidak.
+This tool contains a web hack to test web security whether the website is feasible or not.
